@@ -18,7 +18,7 @@ body{
 }
 @layer components {
   .nav {
-    @apply hover:text-accent-light hover:opacity-[1];
+    @apply hover:text-accent-light hover:opacity-[1] ;
   }
   .icon{
       @apply dark:text-white hover:text-primary ;
