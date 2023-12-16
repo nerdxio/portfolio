@@ -13,9 +13,6 @@ body{
       font-size: 1.8em;
       font-weight: 700;
 }
-.main {
-    background-image: url("./../images/back.png");
-}
 @layer components {
   .nav {
     @apply hover:text-accent-light hover:opacity-[1] ;
